@@ -2,7 +2,7 @@
 This is an organization intended to house scripts, code, and automation for simplifying day to day interactions with customers and deliverables of our jobs. 
 
 ## Restrictions
-All repositories are to remain private.  At no time should any repository linked to this repository be made public.  Access to these private repositories will be granted on an organization level. 
+All repositories are to remain private.  At no time should any repository linked to this organization be made public.  Access to these private repositories will be granted on an organization level. 
 
 ## Ownership
 At this time, there are three owners:
